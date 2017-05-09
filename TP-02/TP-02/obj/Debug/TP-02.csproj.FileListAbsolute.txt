@@ -1,0 +1,32 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.pdb
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe.config
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.exe
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.pdb
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.pdb
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.pdb
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.dll
+F:\Programacion II 2017\TPN2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.pdb
