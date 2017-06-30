@@ -1,0 +1,5 @@
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\bin\Debug\ENacionalidad.dll
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\bin\Debug\ENacionalidad.pdb
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\obj\Debug\EntidadesNacionalidad.csprojResolveAssemblyReference.cache
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\obj\Debug\ENacionalidad.dll
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\obj\Debug\ENacionalidad.pdb

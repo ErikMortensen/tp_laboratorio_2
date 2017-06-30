@@ -82,3 +82,6 @@ C:\Users\Erik\Desktop\Prog 2\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - Alum
 C:\Users\Erik\Desktop\Prog 2\TP4\Navegador TP4\Navegador TP4\Navegador\bin\Debug\Navegador.exe.config
 C:\Users\Erik\Desktop\Prog 2\TP4\Navegador TP4\Navegador TP4\Navegador\obj\Debug\Navegador.exe
 C:\Users\Erik\Desktop\Prog 2\TP4\Navegador TP4\Navegador TP4\Navegador\obj\Debug\Navegador.pdb
+C:\Users\Erik\Documents\GitHub\tp_laboratorio_2\TP4\Navegador\bin\Debug\Navegador.exe.config
+C:\Users\Erik\Documents\GitHub\tp_laboratorio_2\TP4\Navegador\obj\Debug\Navegador.exe
+C:\Users\Erik\Documents\GitHub\tp_laboratorio_2\TP4\Navegador\obj\Debug\Navegador.pdb

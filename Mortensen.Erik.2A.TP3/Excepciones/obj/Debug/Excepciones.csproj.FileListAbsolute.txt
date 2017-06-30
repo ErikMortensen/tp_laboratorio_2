@@ -1,0 +1,8 @@
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

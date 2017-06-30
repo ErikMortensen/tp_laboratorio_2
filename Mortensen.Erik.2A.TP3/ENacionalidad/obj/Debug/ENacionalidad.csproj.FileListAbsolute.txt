@@ -1,0 +1,4 @@
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\bin\Debug\ENacionalidad.dll
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\bin\Debug\ENacionalidad.pdb
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\obj\Debug\ENacionalidad.dll
+F:\Programacion II 2017\tp3\Mortensen.Erik.2A.TP3\ENacionalidad\obj\Debug\ENacionalidad.pdb
