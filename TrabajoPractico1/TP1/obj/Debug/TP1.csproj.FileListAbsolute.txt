@@ -1,0 +1,26 @@
+E:\Programacion2\Mortensen.ErikTP1\TP1\bin\Debug\TP1.exe.config
+E:\Programacion2\Mortensen.ErikTP1\TP1\bin\Debug\TP1.exe
+E:\Programacion2\Mortensen.ErikTP1\TP1\bin\Debug\TP1.pdb
+E:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.Calculadora.resources
+E:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+E:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.csproj.GenerateResource.Cache
+E:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.exe
+E:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.pdb
+D:\Programacion2\Mortensen.ErikTP1\TP1\bin\Debug\TP1.exe.config
+D:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.exe
+D:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.pdb
+D:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
+D:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.frmCalculadora.resources
+D:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+D:\Programacion2\Mortensen.ErikTP1\TP1\obj\Debug\TP1.csproj.GenerateResource.Cache
+D:\Programacion2\Mortensen.ErikTP1\TP1\bin\Debug\TP1.exe
+D:\Programacion2\Mortensen.ErikTP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\bin\Debug\TP1.exe.config
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\obj\Debug\TP1.exe
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\obj\Debug\TP1.pdb
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\bin\Debug\TP1.exe
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\bin\Debug\TP1.pdb
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\obj\Debug\TP1.frmCalculadora.resources
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\Erik\Desktop\Prog 2\copia repos borrados Erik 2016\tp_laboratorio_2\TrabajoPractico1\TP1\obj\Debug\TP1.csproj.GenerateResource.Cache
